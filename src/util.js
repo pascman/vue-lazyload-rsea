@@ -219,6 +219,8 @@ const _ = {
 
 const loadImageAsync = (item, resolve, reject) => {
   let image = new Image()
+  image.referrerPolicy = 'no-referrer'
+  image.crossorigin = 'anonymous'
   if (!item || !item.src) {
     const err = new Error('image src is required')
     return reject(err)
