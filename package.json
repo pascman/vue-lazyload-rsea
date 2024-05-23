@@ -13,7 +13,7 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/hilongjw/vue-lazyload.git"
+    "url": "https://github.com/pascman/vue-lazyload-rsea.git"
   },
   "typings": "types/index.d.ts",
   "keywords": [
@@ -24,7 +24,7 @@
   ],
   "author": "Awe <hilongjw@gmail.com>",
   "bugs": {
-    "url": "https://github.com/hilongjw/vue-lazyload/issues"
+    "url": "https://github.com/pascman/vue-lazyload-rsea/issues"
   },
   "browserslist": [
     "> 1%",
